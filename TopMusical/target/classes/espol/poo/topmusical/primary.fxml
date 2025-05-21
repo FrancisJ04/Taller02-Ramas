@@ -38,7 +38,17 @@
       </VBox>
    </right>
    <top>
+<<<<<<< HEAD
       <Label text="RadioXYZ Top 10" BorderPane.alignment="CENTER">
+=======
+
+      <Label text="RadioXYZ Top 10" BorderPane.alignment="CENTER">
+
+      <Label text="Top 10 canciones ESPOL" BorderPane.alignment="CENTER">
+
+      <Label text="RadioXYZ Top 10" BorderPane.alignment="CENTER">
+
+>>>>>>> 7035d1b9b9f452bf9cbe30d24bfe3b46b6375ebc
          <font>
             <Font name="System Bold" size="24.0" />
          </font>
