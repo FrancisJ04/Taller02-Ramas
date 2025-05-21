@@ -5,4 +5,4 @@ El comparable de la clase Cancion fue modificado para que este vaya en un orden 
 o.posActual y de posActual
 permitiendo que el top se muestre en pantalla de forma inversa. 
 Junto a este README se adjunta evidencia:
-![Evidencia-de-cambios](evidencia.png.png)
+![Evidencia-de-cambios](evidencia.png)
